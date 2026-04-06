@@ -1,0 +1,17 @@
+NEB Class 11 — All Practice Questions
+Q1. Write HTML code to create a hyperlink that opens "www.google.com" in a new tab with the text "Visit Google".
+Q2. Create a webpage using <div> tag that divides the page into three sections: Header, Main Content, and Footer. Apply different background colors to each section using CSS.
+Q3. Design a student registration form with the following fields: Full Name (text), Age (number), Gender (radio button: Male/Female), Course (dropdown: Science, Management, Humanities), Hobbies (checkbox: Reading, Sports, Music), and a Submit button. Use proper <label> and <input> tags.
+Q4. Write HTML code to embed a video file "myvideo.mp4" with controls, autoplay and loop. Also embed an audio file "mysong.mp3" with controls.
+Q5. Write a C program that takes marks of a student as input and displays grade using nested if-else: 90-100 = A+, 80-89 = A, 70-79 = B, 60-69 = C, 50-59 = D, Below 50 = Fail.
+Q6. Write a C program to print the following star pattern using nested loop:
+*
+* *
+* * *
+* * * *
+* * * * *
+Q7. Write a C program to input two numbers and display their sum using arithmetic operator, check which is greater using relational operator, check if both are positive using logical operator, and check even or odd using modulus operator.
+Q8. Write a C program that inputs a number 1 to 7 and displays the day of the week using switch case. If number is invalid, display "Invalid day".
+Q9. Write a C program to store 5 student marks in a 1D array, calculate total and average, and find the highest and lowest mark.
+Q10. Write a C program to input two 3x3 matrices and display their sum using 2D array.
+Q11. Write a C program that inputs a string from user, counts total number of characters without using strlen, reverses the string, and checks whether it is palindrome or not.
