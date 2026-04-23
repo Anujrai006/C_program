@@ -26,11 +26,12 @@ void main()
     if(palindrome)
       {
         printf("Palindrome");
-        return;
+        break;
       }
+  
     else{
         printf("not palindrome");
-                return;
+              
 
       }
  }
